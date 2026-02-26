@@ -3,7 +3,7 @@ This repository contains code for the results used in the paper:
 
 **Freire, T., Garcia-Romero, M., & Gjini, E. (2026).**  
 *Modeling the human vaginal microbiome and its protection against pathogens using the replicator framework for invasion*  
-Update with doi
+https://doi.org/10.64898/2026.02.20.707042
 
 ---
 
@@ -26,7 +26,7 @@ Notebook containing all code used to generate the figures for the main manuscrip
 If you use this code or notebooks in your work, please cite:
 
 > Freire, T., Garcia-Romero, M., & Gjini, E. (2026).  *Modeling the human vaginal microbiome and its protection against pathogens using the replicator framework for invasion*  
-Update with doi
+https://doi.org/10.64898/2026.02.20.707042
 
 ---
 
