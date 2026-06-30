@@ -9,7 +9,7 @@ https://doi.org/10.64898/2026.02.20.707042
 
 ## Repository Contents
 
-### `10_species_cleaned_with_ethnicity_and_community.csv`
+### `14_taxa_data.csv`
 Processed vaginal microbiome dataset including Nugent scores, Community State Types (CSTs), and ethnicity annotations.
 
 ### `Model_Fitting_and_performance.ipynb`
@@ -18,7 +18,7 @@ Python notebook covering model fitting procedures and performance evaluation for
 ### `Model_validation.ipynb`
 Python notebook detailing the validation workflow using synthetic data designed to mimic the characteristics of the data used.
 
-### `Figures.ipynb`
+### `Figures_separated_lactobacillus.ipynb`
 Notebook containing all code used to generate the figures for the main manuscript and Supporting Information (SI).
 
 ## Citation
